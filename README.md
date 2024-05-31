@@ -103,3 +103,7 @@
 15.	label1 – надпись «голод».
 16.	label2 – надпись «усталость».
 17.	label3 – надпись «счастье»
+
+Ниже представлена ссылка на короткое видео, показывающее функционал игры и игровой процесс:
+https://drive.google.com/file/d/187FLo7SJns8aY-EArhwQZweOTHDwLa9E/view?usp=sharing
+
